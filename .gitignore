@@ -1,0 +1,10 @@
+functions/
+blocks/
+coverage/
+node_modules/
+src/background-action/
+.tmp/
+.DS_Store
+config.json
+config-bcp.json
+package-lock.json

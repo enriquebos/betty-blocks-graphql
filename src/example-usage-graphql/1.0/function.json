@@ -1,0 +1,11 @@
+{
+  "description": "Example usage Graphql",
+  "label": "Examples",
+  "category": "Example",
+  "icon": {
+    "name": "ExpressionIcon",
+    "color": "Orange"
+  },
+  "options": [],
+  "yields": "NONE"
+}
